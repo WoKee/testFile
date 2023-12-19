@@ -1,6 +1,15 @@
 {
   "sites": [
-    {
+     {
+      "key": "csp_search_PanSearch",
+      "name": "WoKee",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },{
       "key": "dr_豆瓣",
       "name": "🔍豆瓣首页",
       "type": 3,
@@ -41,16 +50,7 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-    {
-      "key": "csp_search_PanSearch",
-      "name": "🗂️盘搜|阿里",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
+   
     {
       "key": "csp_search_Zhaozy",
       "name": "🐑资源|阿里",
