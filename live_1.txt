@@ -34,6 +34,9 @@ CCTV-2财经,http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
 CCTV-2财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-2财经,http://110.16.65.6:8888/newlive/live/hls/3/live.m3u8
+CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV-2财经,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=CCTV-2H265_4000
 ♥央视频道,#genre#
 CCTV1高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
