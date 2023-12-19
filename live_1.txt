@@ -5,7 +5,6 @@ CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=cctv1hd8m/8000000
 CCTV-1综合,http://s3live.imxd.top:8901/tsfile/live/0001_1.m3u8
-CCTV-1综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV-1综合,http://111.20.34.9:6060/000000001000/5000000004000002226/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000004000002226
 CCTV-1综合,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -22,7 +21,6 @@ CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2财经,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=cctv2hd8m/8000000
 CCTV-2财经,http://s3live.imxd.top:8901/tsfile/live/0002_1.m3u8
-CCTV-2财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV-2财经,http://111.20.34.9:6060/000000001000/5000000011000031101/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000011000031101
 CCTV-2财经,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1581514102_1458964604/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667329&timezone=UTC&mtv_session=0652a49abec4c860e1b09ad88db72dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3816442679b4c149e40771e4b7b870cb
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -43,7 +41,6 @@ CCTV-3综艺,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
 CCTV-3综艺,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=CCTV-3H265_4000
 CCTV-3综艺,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=cctv38m/8000000
 CCTV-3综艺,http://s3live.imxd.top:8901/tsfile/live/0003_1.m3u8
-CCTV-3综艺,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
 CCTV-3综艺,http://111.20.34.9:6060/000000001000/5000000004000008883/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000004000008883
 CCTV-3综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV-3综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
