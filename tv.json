@@ -1586,7 +1586,7 @@
             }
         ]
     },
-    //每日一言(随机显示欢迎语)"dairyWords": [
+    "dairyWords": [
         {
             "name": "rating",
             "request": {
@@ -1601,7 +1601,7 @@
             "expires": "43200"
         }
     ],
-    //首页推荐视频(IMDbPopularMovies)"recommend": [
+    "recommend": [
         {
             "name": "imdb",
             "request": {
@@ -1630,7 +1630,7 @@
             "expires": "86400"
         }
     ],
-    //首页推荐视频(豆瓣)"recommend": [
+    "recommend": [
         {
             "name": "豆瓣推荐",
             "request": {
@@ -1665,7 +1665,7 @@
             "expires": "86400"
         }
     ],
-    //评分(数据来自豆瓣)"rating": [
+    "rating": [
         {
             "name": "rating",
             "request": {
@@ -1685,10 +1685,10 @@
             }
         }
     ],
-    //输入法智能联想接口//"association": [
+    "association": [
         
     ],
-    //中文分词接口"pullWord": [
+    "pullWord": [
         {
             "name": "pullWord",
             "request": {
@@ -1707,7 +1707,7 @@
             }
         }
     ],
-    //字幕格式(可选)"subtitle": {
+    "subtitle": {
         "color": "#FFFFFF",
         "size": "30"
     },
