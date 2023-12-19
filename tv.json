@@ -141,7 +141,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/WoKee/testFile/main/live.txt"
+            "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/WoKee/testFile/main/live_1.txt"
           ]
         }
       ]
