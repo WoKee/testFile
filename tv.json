@@ -150,7 +150,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
+            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/live.txt"
           ]
         }
       ]
