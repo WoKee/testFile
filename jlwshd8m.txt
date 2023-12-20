@@ -886,7 +886,7 @@ CCTV-16奥林匹克4K,http://111.20.34.9:6060/000000001000/5000000008000023254/i
 
 
 
-♥央视频道,#genre#
+😴其他,#genre#
 北京卡酷,http: //dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通, http: //dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 优漫卡通, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
