@@ -1,4 +1,4 @@
-主要频道1,#genre#
+主要频道,#genre#
 CCTV-1,https://wokee.888888.com/
 CCTV-2,https://wokee.888888.com/
 CCTV-3,https://wokee.888888.com/
