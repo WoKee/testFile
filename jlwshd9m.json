@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "WoKee",
+      "name": "WoKee",
+      "type": 3,
+      "api": "WoKee",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
       "key": "csp_search_PanSearch",
       "name": "盘搜|阿里",
       "type": 3,
