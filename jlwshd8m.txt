@@ -1009,7 +1009,7 @@ CCTV-16奥林匹克4K,http://111.20.34.9:6060/000000001000/5000000008000023254/i
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 欢笑剧场4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=hxjc-4k_8000
 欢笑剧场4k,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=hxjc4k/15000000
-欢笑剧场4K,http://111.20.34.9:6060/000000001000/5000000007000010001/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000007000010001
+欢笑剧场4k,http://111.20.34.9:6060/000000001000/5000000007000010001/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000007000010001
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://r.jdshipin.com/Lqdwf
 北京纪实8K,http://159.75.85.63:6798
