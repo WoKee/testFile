@@ -1,4 +1,47 @@
-♥Wokee-电视♥,#genre#
+主要频道,#genre#
+CCTV-1,https://wokee.88888888.com/
+CCTV-2,https://wokee.88888888.com/
+CCTV-3,https://wokee.88888888.com/
+CCTV-4,https://wokee.88888888.com/
+CCTV-5,https://wokee.88888888.com/
+CCTV-5+,https://wokee.88888888.com/
+CCTV-6,https://wokee.88888888.com/
+CCTV-7,https://wokee.88888888.com/
+CCTV-8,https://wokee.88888888.com/
+CCTV-9,https://wokee.88888888.com/
+CCTV-10,https://wokee.88888888.com/
+CCTV-11,https://wokee.88888888.com/
+CCTV-12,https://wokee.88888888.com/
+CCTV-13,https://wokee.88888888.com/
+CCTV-14,https://wokee.88888888.com/
+CCTV-15,https://wokee.88888888.com/
+CCTV-16,https://wokee.88888888.com/
+CCTV-17,https://wokee.88888888.com/
+安徽卫视,https://wokee.88888888.com/
+北京卫视,https://wokee.88888888.com/
+东方卫视,https://wokee.88888888.com/
+浙江卫视,https://wokee.88888888.com/
+湖南卫视,https://wokee.88888888.com/
+河南卫视,https://wokee.88888888.com/
+江苏卫视,https://wokee.88888888.com/
+东南卫视,https://wokee.88888888.com/
+广东卫视,https://wokee.88888888.com/
+广西卫视,https://wokee.88888888.com/
+贵州卫视,https://wokee.88888888.com/
+海南卫视,https://wokee.88888888.com/
+河北卫视,https://wokee.88888888.com/
+黑龙江卫视,https://wokee.88888888.com/
+湖北卫视,https://wokee.88888888.com/
+吉林卫视,https://wokee.88888888.com/
+江西卫视,https://wokee.88888888.com/
+辽宁卫视,https://wokee.88888888.com/
+三沙卫视,https://wokee.88888888.com/
+山东卫视,https://wokee.88888888.com/
+深圳卫视,https://wokee.88888888.com/
+四川卫视,https://wokee.88888888.com/
+天津卫视,https://wokee.88888888.com/
+云南卫视,https://wokee.88888888.com/
+重庆卫视,https://wokee.88888888.com/
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228094/index.m3u8
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
@@ -42,8 +85,6 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/2
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227491/index.m3u8
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
-4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
 CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
@@ -859,7 +900,20 @@ CCTV-17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw159443306
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://110.16.65.6:8888/newlive/live/hls/46/live.m3u8
 
-♥Wokee-4K8K♥,#genre#
+4K8K测试,#genre#
+CCTV-4K,https://wokee.88888888.com/
+CCTV-16奥林匹克4K,https://wokee.88888888.com/
+CCTV-8K,https://wokee.88888888.com/
+咪咕体育4K,https://wokee.88888888.com/
+欢笑剧场4K,https://wokee.88888888.com/
+华数4K影视,https://wokee.88888888.com/
+北京纪实8K,https://wokee.88888888.com/
+苏州4K,https://wokee.88888888.com/
+4K电影,https://wokee.88888888.com/
+南国都市4k,https://wokee.88888888.com/
+斗鱼4K,https://wokee.88888888.com/
+4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=cctv4k/15000000
 CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=ys4Kcq_2000
 CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=ys4Kcq_2000
@@ -883,10 +937,7 @@ CCTV-16奥林匹克4K,http://111.20.34.9:6060/000000001000/5000000008000023254/i
 南国都市4k,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 
-
-
-
-😴其他,#genre#
+😴其他频道,#genre#
 北京卡酷,http: //dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通, http: //dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 优漫卡通, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
