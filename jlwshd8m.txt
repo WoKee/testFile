@@ -547,7 +547,7 @@ CCTV-17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw159443306
 天津卫视,http://110.16.65.6:8888/newlive/live/hls/47/live.m3u8
 河南卫视,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=hnws35_4000
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-河南卫视 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=hnwshd8m/8000000
+河南卫视,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=hnwshd8m/8000000
 河南卫视,http://113.117.74.12:8081/hls/96/index.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 河南卫视,http://s3live.imxd.top:8901/tsfile/live/0139_1.m3u8
