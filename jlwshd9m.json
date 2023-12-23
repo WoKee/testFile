@@ -142,7 +142,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt?i=11"
+            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt"
           ]
         }
       ]
