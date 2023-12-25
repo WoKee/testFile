@@ -77,51 +77,51 @@
       "key": "js_企鹅",
       "name": "🐧腾讯|官源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qtv.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
     },
     {
       "key": "js_奇异",
       "name": "🥝爱奇艺|官源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qzys.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qzys.js"
     },
     {
       "key": "js_芒果",
       "name": "🥭芒果|官源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/baimang.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/baimang.js"
     },
     {
       "key": "js_优酷",
       "name": "👑优酷|官源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
     },
     {
       "key": "js_菜狗",
       "name": "🐕️搜狗|官源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/caigou.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/caigou.js"
     },
     {
       "key": "push_agent",
