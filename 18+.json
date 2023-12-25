@@ -2,15 +2,7 @@
   "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;db8ee47ff1095679871f083b2f5bf388",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "商店",
-      "name": "商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
-    },
+  
     {
       "key": "泥巴",
       "name": "泥巴",
