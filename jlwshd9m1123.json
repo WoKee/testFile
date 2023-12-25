@@ -1,14 +1,13 @@
 {
   "sites": [
     {
-      "key": "WoKee",
+      "key": "csp_DouDou",
       "name": "WoKee",
       "type": 3,
-      "api": "WoKee",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "api": "csp_DouDou",
+      "searchable":0,
+      "quickSearch": 0,
+      "filterable": 1
     },
      {
       "key": "csp_FanYY",
