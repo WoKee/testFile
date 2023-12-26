@@ -1,5 +1,15 @@
 {
   "sites": [
+	  {
+      "key": "js_企鹅",
+      "name": "WoKee",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch":0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
+    },  
     {
       "key": "csp_DouDou",
       "name": "WoKee",
