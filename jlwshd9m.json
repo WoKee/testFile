@@ -11,7 +11,7 @@
 		},
 		{
 			"key": "dr_豆瓣",
-			"name": "🥔WoKee",
+			"name": "🍥WoKee",
 			"type": 3,
 			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/drpy.min.js",
 			"searchable": 0,
