@@ -25,7 +25,7 @@
 			"api": "csp_WoGG",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 		},
 		{
