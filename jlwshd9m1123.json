@@ -48,7 +48,7 @@
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},
-		{
+		/*{
 			"key": "csp_search_Yisou",
 			"name": "🐏易搜|阿里",
 			"type": 3,
@@ -58,9 +58,9 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-		},
+		},*/
 
-		{
+		/*{
 			"key": "csp_search_Zhaozy",
 			"name": "🐑资源|阿里",
 			"type": 3,
@@ -70,7 +70,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-		},
+		},*/
 		{
 			"key": "csp_search_Alips",
 			"name": "🦌盘搜|阿里",
@@ -131,8 +131,8 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/caigou.js"
-		},
-		{
+		}
+		/*,{
 			"key": "push_agent",
 			"name": "📨推送|阿里",
 			"type": 0,
@@ -141,7 +141,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-		}
+		}*/
 	],
 	"lives": [{
 		"group": "redirect",
