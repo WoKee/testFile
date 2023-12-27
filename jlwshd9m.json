@@ -123,8 +123,8 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
-		},
-		{
+		}
+		/*,{
 			"key": "js_菜狗",
 			"name": "🐕️搜狗|官源",
 			"type": 3,
@@ -133,7 +133,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/caigou.js"
-		}
+		}*/
 		/*,{
 			"key": "push_agent",
 			"name": "📨推送|阿里",
