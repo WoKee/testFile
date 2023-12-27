@@ -6,11 +6,10 @@
       "key": "WoKee_18+",
       "name": "WoKee_18+",
       "type": 3,
-      "api": "WoKee_18+",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "api": "㊙︎WoKee",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "泥巴",
