@@ -123,13 +123,17 @@
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
 		},
 		
-{
-    "key": "drpy_js_荐片",
-    "name": "📨荐片|三方",
-    "type": 3,
-    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
-}		
+ {
+            "key": "js_荐片",
+            "name": "⏳荐片|三方",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/xduo-main/libs/drpy2.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/xduo-main/libs/%E8%8D%90%E7%89%87.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }		
 		/*,{
 			"key": "js_菜狗",
 			"name": "🐕️搜狗|官源",
