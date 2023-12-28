@@ -2,7 +2,7 @@
 "storeHouse": 
 [
 {"sourceName":"WoKee首选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd9m1123.json"},
-  {"sourceName":"WoKee备选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/"},
+  {"sourceName":"WoKee备选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd9m.json"},
   {"sourceName":"WoKee_18+","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fm_fas18sdf.json"}
 ]
 }
