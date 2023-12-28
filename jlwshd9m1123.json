@@ -25,7 +25,7 @@
 			"api": "csp_WoGG",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 		},
 		{
@@ -35,7 +35,7 @@
 			"api": "csp_PanSearch",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},
 		{
@@ -45,7 +45,7 @@
 			"api": "csp_Dovx",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},
 		/*{
@@ -71,7 +71,7 @@
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},*/
-		{
+		/*{
 			"key": "csp_search_Alips",
 			"name": "🦌盘搜|阿里",
 			"type": 3,
@@ -79,9 +79,9 @@
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-		},
+		},*/
 		{
 			"key": "js_企鹅",
 			"name": "🐧腾讯|官源",
@@ -89,7 +89,7 @@
 			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
 		},
 		{
@@ -99,7 +99,7 @@
 			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qzys.js"
 		},
 		{
@@ -109,7 +109,7 @@
 			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable":0,
+			"filterable":1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/baimang.js"
 		},
 		{
@@ -119,9 +119,12 @@
 			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
 		},
+		
+		{"key":"csp_Czsapp","name":"🏭厂长|三方","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy33.com/"},
+
 		
  {
             "key": "js_荐片",
