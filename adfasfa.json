@@ -1,0 +1,17 @@
+{
+    "urls": [
+
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd9m1123.json",
+            "name": "WoKee首选"
+        },
+    {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd9m.json",
+            "name": "WoKee备选"
+        },
+    {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fm_fas18sdf.json",
+            "name": "WoKee_18"
+        }
+    ]
+}
