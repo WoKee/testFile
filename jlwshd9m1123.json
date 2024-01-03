@@ -166,12 +166,12 @@
 		}]
 	}],
 	"parses": [
-		
-{
-    "name": "haokantv",
+		  {
+    "name": "jsonplayer",
     "type": 0,
-    "url": "https://free.haokantv.cyou/player/analysis.php?v="
+    "url": "https://jx.jsonplayer.com/player/?url="
   },
+
  {
     "name": "Web4",
     "type": 0,
@@ -233,11 +233,7 @@
     "type": 0,
     "url": "https://jx.xyflv.cc/?url="
   },
-  {
-    "name": "jsonplayer",
-    "type": 0,
-    "url": "https://jx.jsonplayer.com/player/?url="
-  },
+
   {
     "name": "dmjx",
     "type": 0,
@@ -365,10 +361,6 @@
 		"qiu.xixiqiu.com",
 		"cdnjs.hnfenxun.com",
 		"cms.qdwght.com",
-		"51gowan.com",
-		"p.51gowan.com",
-		"51.la",
-		"pc.stgowan.com",
 		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
 	],
 	"wallpaper": "https://bingw.jasonzeng.dev/?index=random",
