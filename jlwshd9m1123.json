@@ -82,7 +82,7 @@
 			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},*/
-		{
+		/*{
 			"key": "js_企鹅",
 			"name": "🐧腾讯|官源",
 			"type": 3,
@@ -91,8 +91,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
-		},
-		{
+		},*/
+		/*{
 			"key": "js_奇异",
 			"name": "🥝爱奇艺|官源",
 			"type": 3,
@@ -101,8 +101,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qzys.js"
-		},
-		{
+		},*/
+		/*{
 			"key": "js_芒果",
 			"name": "🥭芒果|官源",
 			"type": 3,
@@ -111,8 +111,8 @@
 			"quickSearch": 1,
 			"filterable":1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/baimang.js"
-		},
-		{
+		},*/
+		/*{
 			"key": "js_优酷",
 			"name": "👑优酷|官源",
 			"type": 3,
@@ -121,7 +121,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
-		},
+		},*/
 		{
 	"key": "csp_NanGua",
 	"name": "🎃南瓜|三方",
@@ -178,16 +178,16 @@
 		}]
 	}],
 	"parses": [
-		  {
-    "name": "jsonplayer",
-    "type": 0,
-    "url": "https://jx.jsonplayer.com/player/?url="
-  },
+		
 
  {
     "name": "Web4",
     "type": 0,
     "url": "https://jx.xmflv.cc/?url="
+  },  {
+    "name": "jsonplayer",
+    "type": 0,
+    "url": "https://jx.jsonplayer.com/player/?url="
   },
     {
       "name": "xmflv",
