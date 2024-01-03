@@ -61,6 +61,12 @@
         ]
       }
     },
+{"name": "vip","type": 1,"url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url=","header": {"User-Agent": "okhttp-okgo/jeasonlzy"}},
+ {
+    "name": "Web4",
+    "type": 0,
+    "url": "https://jx.xmflv.cc/?url="
+  },
     {
       "name": "xmflv",
       "type": 0,
@@ -91,11 +97,7 @@
         }
       }
     },
-  {
-    "name": "Web4",
-    "type": 0,
-    "url": "https://jx.xmflv.cc/?url="
-  },
+ 
   {
     "name": "777",
     "type": 0,
