@@ -82,7 +82,7 @@
 			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},*/
-		/*{
+		{
 			"key": "js_企鹅",
 			"name": "🐧腾讯|官源",
 			"type": 3,
@@ -90,9 +90,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
-		},*/
-		/*{
+			"ext": "https://cdn.leisu.com/attachments/2024/01/03/FhZr8aAW7KWraaKpIhAwKdy9p6Jw.png"
+		},
+		{
 			"key": "js_奇异",
 			"name": "🥝爱奇艺|官源",
 			"type": 3,
@@ -101,8 +101,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qzys.js"
-		},*/
-		/*{
+		},
+		{
 			"key": "js_芒果",
 			"name": "🥭芒果|官源",
 			"type": 3,
@@ -111,8 +111,8 @@
 			"quickSearch": 1,
 			"filterable":1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/baimang.js"
-		},*/
-		/*{
+		},
+		{
 			"key": "js_优酷",
 			"name": "👑优酷|官源",
 			"type": 3,
@@ -121,7 +121,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/youku.js"
-		},*/
+		},
 		{
 	"key": "csp_NanGua",
 	"name": "🎃南瓜|三方",
