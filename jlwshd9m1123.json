@@ -36,9 +36,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			 "ext": {
-        			"token": "影視天下第一"
-      			}
+			 "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},
 		
 			{
