@@ -28,6 +28,10 @@
 			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 		},
+		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/pg.jar",
+			"ext":"http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/$$$null$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/wogg.json"},
+
 		{
 			"key": "csp_search_PanSearch",
 			"name": "🗂️盘搜|阿里",
