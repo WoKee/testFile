@@ -28,6 +28,20 @@
 			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 		},
+		{
+			"key": "csp_FanYY1",
+			"name": "🧸玩偶1|阿里",
+			"type": 3,
+			"api": "csp_WoGG",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/custom_spider.jar",
+			 "ext": {
+        			"token": "影視天下第一"
+      			}
+		},
+		
 			{
 			"key": "csp_search_PanSearch",
 			"name": "🗂️盘搜|阿里",
