@@ -37,7 +37,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/custom_spider.jar",
-			 "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+			 "ext": {
+				 
+			 }
 		},
 		
 			{
