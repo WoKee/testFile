@@ -26,7 +26,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+			/*"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"*/
+			"ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://tvfan.xxooo.cf/$$$关"
 		},
 		
 		{
