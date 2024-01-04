@@ -36,6 +36,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/custom_spider.jar",
 			 "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 		},
 		
@@ -388,5 +389,5 @@
 	
 	/*https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/jar/Yoursmile1123.jar*/
 	/*https://cdn.leisu.com/attachments/2023/12/28/FnCQ483-CN4sqBhrTQ-Fo8TnnOjG.png*/
-	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/custom_spider.jar"
+	"spider": "https://cdn.leisu.com/attachments/2023/12/28/FnCQ483-CN4sqBhrTQ-Fo8TnnOjG.png"
 }
