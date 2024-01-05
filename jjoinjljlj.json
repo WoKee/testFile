@@ -1,6 +1,8 @@
 {
 "storeHouse": 
 [
-{"sourceName":"WoKee","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/adfasfa.json"}
+{"sourceName":"WoKee|影视","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/adfasfa.json"},
+  {"sourceName":"WoKee|课堂","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fadfasdfa.json"},
+  {"sourceName":"WoKee|戏曲","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/erqrqqrw.json"},
 ]
 }
