@@ -2,15 +2,7 @@
 	"sites": [
 		{"key":"少儿","name":"☃️WoKee","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/fadfasfafoi.json"},
 	],
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": [
-				"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt"
-			]
-		}]
-	}],
+	
 	
 	"ads": [
 		"wan.51img1.com",
