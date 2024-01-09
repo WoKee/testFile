@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "仓库1",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/adfasfa.json"
+    },
+    {
+      "sourceName": "仓库2",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fadfasdfa.json"
+    },
+    {
+      "sourceName": "仓库3",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/erqrqqrw.json"
+    },
+    {
+      "sourceName": "仓库4",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fafaljfaoiopr.json"
+    }
+  ]
+}
