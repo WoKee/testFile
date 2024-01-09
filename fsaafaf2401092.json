@@ -196,12 +196,6 @@
   ],
   "lives": [
     {
-      "name": "TXT",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "group": "redirect",
       "channels": [
         {
@@ -211,6 +205,12 @@
           ]
         }
       ]
+    },
+    {
+      "name": "TXT",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "parses": [
