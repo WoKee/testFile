@@ -196,21 +196,34 @@
   ],
   "lives": [
     {
-      "name": "TXT",
+      "name": "live",
+      "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt"
-          ]
-        }
-      ]
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
+  //  "lives": [
+  //
+  //
+  //    {
+  //      "name": "TXT",
+  //      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt",
+  //      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+  //      "logo": "https://epg.112114.xyz/logo/{name}.png",
+  //      "group": "redirect",
+  //      "channels": [
+  //        {
+  //          "name": "live",
+  //          "urls": [
+  //            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jlwshd8m.txt"
+  //          ]
+  //        }
+  //      ]
+  //    }
+  //  ],
   "parses": [
     {
       "name": "icu",
