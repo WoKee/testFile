@@ -1,11 +1,11 @@
 {
   "storeHouse": [
     {
-      "sourceName": "仓库3",
+      "sourceName": "戏曲",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/erqrqqrw.json"
     },
     {
-      "sourceName": "仓库4",
+      "sourceName": "相声小品",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/fafaljfaoiopr.json"
     }
   ]
