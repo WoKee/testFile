@@ -1,5 +1,5 @@
 {
-  "code": 2303,
-  "name": "2.3.0_3",
-  "desc": "* 基板2.2.0\n* 支持单仓源记忆且可跟踪刷新\n* 修复一些小问题\n* 特性\n  添加多仓<storeHouse>支持\n  支持蜂蜜影视TV共存版\n  跟随蜂蜜影视更新原汁原味无添加"
+  "code": 2205,
+  "name": "2.2.0_5",
+  "desc": "* <单/多仓 & 点播线路>智能识别,一个输入框全搞定\n* 单/多仓逻辑优化,无需刻意区分\n* 点播线路增加<长按小房子>刷新配置\n* 增加版本日志回显\n* logo微调增加区分\n* 特性\n  添加多仓<storeHouse>支持\n  支持<蜂蜜影视>共存,原汁原味无添加\n### 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
