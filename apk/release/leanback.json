@@ -1,5 +1,5 @@
 {
-  "code": 2231,
-  "name": "2.2.3_1",
-  "desc": "* 同步更新 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别线路类型\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2232,
+  "name": "2.2.3_2",
+  "desc": "* 搜索联想词增加额外渠道 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别线路类型\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
