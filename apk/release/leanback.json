@@ -1,5 +1,5 @@
 {
-  "code": 2223,
-  "name": "2.2.2_3",
-  "desc": "* 修正首页历史记录重复 \n* 调整播放剧集默认多行 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别线路类型\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2231,
+  "name": "2.2.3_1",
+  "desc": "* 同步更新 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别线路类型\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
