@@ -1,6 +1,9 @@
 {
-  "e_date": "20240117",
-  "data":"K8sqQZvDoW5/RfvsuaFyzTUL7kkIac7HZuybfOrBtY0MPup5oxOZrfoWDZ/y2HePn55lhvGm/cgar3+uYXskzGCSB38gt786WHn8qV1JsJzB2AJodtHDykDtG5ow8mBdKa3XXppSW6pdhfh+QmQOx9JQfCG8BR7AdXyK5pwb7xK6HkJFA6/7KLbDmydXKPCUwdGccsURwbTu0qaGLxm/fFnhf6pZdnVmOYdsfe4Yz2U="
+  "storeHouse":
+  [
+    {"sourceName":"肥猫","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/test_ms.json"},
+    {"sourceName":"饭太硬","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/test_ms_1.json"},
+    {"sourceName":"小米","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/test_ms_2.json"}
+  ]
 }
-
 
