@@ -1,5 +1,5 @@
 {
-  "code": 2241,
-  "name": "2.2.4_1",
+  "code": 2242,
+  "name": "2.2.4_2",
   "desc": "* [TV]首页去除更新推荐，最近观看调整为多行 \n*同步更新2.2.4\n* 优化自动忽略小于20秒的视频(实验) \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
