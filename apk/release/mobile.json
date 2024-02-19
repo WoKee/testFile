@@ -1,5 +1,5 @@
 {
-  "code": 2252,
-  "name": "2.2.5_2",
-  "desc": "* 修复多仓情况下，添加点播时偶现首页不刷新 \n* 同步更新2.2.5 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<蜂蜜影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2271,
+  "name": "2.2.7_1",
+  "desc": "* 调整播放页面视频区域未获取焦点的返回逻辑 \n* 同步更新2.2.7 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
