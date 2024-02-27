@@ -1,5 +1,41 @@
 {
-  "e_date": "20240117",
-  "data": "7k/QXLipXD0+uCsEpro9TN/9WsZCnBh2SlmSoOxQWZBN3UISdvbpcBrK47JduQGSSetVz3/dpOl57ONExnVVPW+HBoHbrisY27OfZs2PJMOw9Jks7aKMOlUz+yvCQwYvEHNGxbwWSRB077e5HhyiW2r8oX1HIoJ4kNjC9rN11B3cWvbIpKQlHeA0iE3ZYjbh8/assFGZPzSkjhobAqu6msZI2JO9QjwFh+KUj6e2SsMf6BgfPItLl/q76PmhWJrANNZ7wpN876VNWivOZzAAZuf+kH92JkB3/evVvosJiHlXU7Z6hQLFH+4Uwe4xsWWjCUeKYcy+sC0UE4+RkitCGXYzyY5yHzTCzwq96HFq0DXXhHqmGPWVoPSbejY3d9+m3Z4H7Oa0Qyh8iiS7zIghbKtiMYFG0ffHu2jz825xJ2F8J+jfj4RPat/rq7Q750SKsdYrOT7KIbbfr6QVU4kCh/1R9Vu8ni9/o/NnCxLe4b8HQ/ceYo37MYONQ4bu3OqHfVQtd3lQ4W/xOREPFbcRuybq3Q4eNCQ6DLGQ58Oy4LOM2zbRTE+crEoJ4TMcBM+oRD8XGPW3xsiok9AHSJ0bpcYXFc4swiU8Aw9jEJckmXTnhOiiq2cTGQX1HqYU5yuMbeSrmdLrNaGMvbUhnVMNYgS/lX8nFwjmu6KLFxYzoupEhk6OEFKldLvC1dCWoUfwnLpP0mwfR2ygdVGFX/C8OSnmBpjB8FeyVEJtA0ny1j5s9JYOZi4XUQE9d6C0UODGEHNGxbwWSRB077e5HhyiW2r8oX1HIoJ4kNjC9rN11B04RDnqlEnphtN9AAmZn8QsRqrUJUiN60vLpgaOsj+DyTEP/IvI5ETtQj2sAjlcg2IiplnWPjspGy7sEusEd9QMiKUsm5cSw0USUJ7CoTfZrQFiQoR34C8n8p2l5yoGNNkTpaYyCdBK7IjikkMIXrzXsUDnJlGcOvbsQ0zpTs0JHhkg33jrvWqvrbCEO6DJzSHgHjruCaYP2oFkAGRYEkQrjjJuuyeoTi552vdVyTmahwCzdpe/xhhTfj+uoCIIRpfvVfRwhAX1ZuCCYAnRxNHqUn1zjYY5H1ZnbrCP3BGNBNfsV0vC/LD4ieIhJzYZUO6jgDcx+YgLCq/OmfU5XopgnVEqgfsF1h4Pu7nBFqa4W/sA1dENl5uarYesArjYPRTrBCWMRpBmu9FbRW7lpXrQzNl2FTRvCduodDdPB3pQ1WIL8fmrPhtPH3n4M6JvxzjuJsp5HBrc3kTBO5j7jXI/g8ARtJqGm3ILQTFIt6u7sKmSs/Su2xV6u4LH2h9hhkCUBV8oZ/TiPILMtZVY32Hqm9aMHXZFJjohdOwb26SboT5F/yfr3rWvbFDdAcBH2hLxaELXhB0E1jUHGOYKvKiDMpxhsoJumu5AxRYL89e1tMV2IM4R+us5YC691EXYzq5RZhCaPFEkABufajP8PA3ER+mFwDoZdVu1pyMBeUVSXcxoy0RrbeJ9BZeFUsUz0a4="
+  "sites": [
+    {
+      "key": "js_企鹅1",
+      "name": "☃️WoKee",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
+    },
+    {
+      "key": "js_企鹅12",
+      "name": "请不要更换主页线路，会出错",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "玩偶弹幕版",
+      "name": "👽玩偶┃4K弹幕",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "wogg": true,
+        "danmu": true
+      },
+      "timeout": 30
+    }
+  ],
+  "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
+  "spider": "https://cdn.leisu.com/attachments/2024/02/27/Fj1q65ODkrdfQYRNpVHs5pUo_rZl.png"
 }
-
