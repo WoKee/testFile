@@ -9,15 +9,7 @@
     "filterable": 1,
     "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
   },
-    {
-      "key": "js_企鹅12",
-      "name": "请不要更换主页线路，会出错",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }, {
+     {
       "key": "南瓜弹幕版",
       "name": "🎃南瓜┃弹幕",
       "type": 3,
@@ -28,7 +20,6 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
       "timeout": 10
     },
     {
@@ -42,7 +33,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -56,7 +47,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -70,7 +61,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 20
     },
     {
@@ -86,7 +77,7 @@
         "wogg": true,
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 30
     },
     {
@@ -104,7 +95,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 30
     },
     {
@@ -121,7 +112,7 @@
         "site": "https://www.weixine.net",
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -137,7 +128,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -154,7 +145,7 @@
         "site": "https://aliz.lvdoui.top",
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -171,7 +162,7 @@
         "site": "http://www.ttkx.live",
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -187,7 +178,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 25
     },
     {
@@ -201,7 +192,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -220,7 +211,7 @@
         "cookie": "file://TV/bili_cookie.txt",
         "json": "https://jihulab.com/okcaptain/kko/-/raw/main/bili.json"
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 20
     },
     {
@@ -239,7 +230,7 @@
         "cookie": "file://TV/bili_cookie.txt",
         "json": "https://jihulab.com/okcaptain/kko/-/raw/main/biliych.json"
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 20
     },
     {
@@ -250,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -265,7 +256,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -279,7 +270,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -290,7 +281,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 10,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "categories": ["日本动漫", "国产动漫", "欧美动漫", "国产剧", "韩剧", "日剧", "台剧", "泰剧", "港剧", "欧美剧", "动画电影", "韩国综艺", "国产综艺", "日本综艺", "欧美综艺", "冒险片", "剧情片", "动作片", "同性片", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "战争片", "歌舞片", "灾难片", "爱情片", "犯罪片", "科幻片", "纪录片", "经典片"]
     },
     {
@@ -300,7 +291,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -313,7 +304,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -323,7 +314,7 @@
       "api": "csp_Duanju",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -337,7 +328,7 @@
       "api": "csp_Kanqiu",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "style": {
         "type": "list"
       },
@@ -353,7 +344,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -369,7 +360,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -384,7 +375,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -400,7 +391,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -410,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
       "timeout": 15
@@ -422,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/555dy_v2.js",
       "timeout": 15
@@ -434,7 +425,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/libvio.js",
       "timeout": 15
@@ -446,7 +437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
       "timeout": 15
@@ -458,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ntdm.js",
       "timeout": 15
@@ -470,7 +461,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js",
       "timeout": 15
@@ -482,7 +473,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
       "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js",
       "timeout": 15
@@ -494,7 +485,7 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -504,7 +495,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -514,7 +505,7 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -524,7 +515,7 @@
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -534,7 +525,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "timeout": 10
     },
     {
@@ -545,7 +536,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
@@ -560,7 +551,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
@@ -575,7 +566,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
@@ -590,7 +581,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -605,7 +596,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -620,7 +611,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -635,7 +626,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -650,7 +641,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -665,7 +656,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true,
@@ -681,7 +672,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "danmu": true
@@ -696,7 +687,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
@@ -712,7 +703,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png",
+      
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
@@ -811,5 +802,5 @@
   "ads": ["mozai.4gtv.tv"],
 
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-  "spider": "https://cdn.leisu.com/attachments/2024/02/27/Fj1q65ODkrdfQYRNpVHs5pUo_rZl.png"
+  "spider": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
 }
