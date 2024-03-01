@@ -1,5 +1,5 @@
 {
-  "code": 2285,
-  "name": "2.2.8_5",
-  "desc": "* [TV]首页推荐位开关\n* 修复BUG \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2287,
+  "name": "2.2.8_7",
+  "desc": "* [TV]首页推荐位开关\n* 优化生仓逻辑\n* 修复BUG \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
