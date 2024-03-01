@@ -1,5 +1,6 @@
 {
-	"sites": [{
+	"sites": [
+		{
 			"key": "js_企鹅1",
 			"name": "☃️WoKee",
 			"type": 3,
@@ -20,7 +21,6 @@
 			"ext": {
 				"danmu": true
 			},
-
 			"timeout": 10,
 			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
 		},
@@ -743,10 +743,12 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15 "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15,
+			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
 		}
 	],
-	"rules": [{
+	"rules": [
+		{
 			"name": "proxy",
 			"hosts": [
 				"raw.githubusercontent.com",
