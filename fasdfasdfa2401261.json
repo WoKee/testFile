@@ -8,6 +8,33 @@
     "quickSearch": 0,
     "filterable": 1,
     "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
+  },{
+    "key": "js_企鹅1",
+    "name": "这里使用原版jar，自定义配置",
+    "type": 3,
+    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
+  },{
+    "key": "js_企鹅1",
+    "name": "不弹激活码，可以随意外挂其他jar",
+    "type": 3,
+    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
+  },{
+    "key": "js_企鹅1",
+    "name": "比如组合 pg.jar , yt.jar",
+    "type": 3,
+    "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/drpymin.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/random-kjfkajlfajs/main/js/json/js/qtv.js"
   },
      {
       "key": "南瓜弹幕版",
