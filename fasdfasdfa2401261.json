@@ -21,8 +21,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "厂长弹幕版",
@@ -35,8 +34,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "天天弹幕版",
@@ -49,8 +47,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "荐片弹幕版",
@@ -63,8 +60,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 20,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 20
 		},
 		{
 			"key": "玩偶弹幕版",
@@ -79,8 +75,7 @@
 				"wogg": true,
 				"danmu": true
 			},
-			"timeout": 30,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 30
 		},
 		{
 			"key": "阿里合集",
@@ -97,8 +92,7 @@
 			"style": {
 				"type": "list"
 			},
-			"timeout": 30,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 30
 		},
 		{
 			"key": "运输车弹幕版",
@@ -114,8 +108,7 @@
 				"site": "https://www.weixine.net",
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "团长弹幕版",
@@ -130,8 +123,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "土豆网盘弹幕",
@@ -147,8 +139,7 @@
 				"site": "https://aliz.lvdoui.top",
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "我哥哥弹幕",
@@ -164,8 +155,7 @@
 				"site": "http://www.ttkx.live",
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "玩偶表哥弹幕",
@@ -180,8 +170,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 25,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 25
 		},
 		{
 			"key": "️爱看Bot弹幕版",
@@ -194,8 +183,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "bili",
@@ -213,8 +201,7 @@
 				"cookie": "file://TV/bili_cookie.txt",
 				"json": "https://jihulab.com/okcaptain/kko/-/raw/main/bili.json"
 			},
-			"timeout": 20,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 20
 		},
 		{
 			"key": "biliych",
@@ -232,8 +219,7 @@
 				"cookie": "file://TV/bili_cookie.txt",
 				"json": "https://jihulab.com/okcaptain/kko/-/raw/main/biliych.json"
 			},
-			"timeout": 20,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 20
 		},
 		{
 			"key": "动漫巴士",
@@ -243,8 +229,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "快手直播",
@@ -258,8 +243,7 @@
 				"type": "rect",
 				"ratio": 1.433
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "JustLive",
@@ -272,8 +256,7 @@
 				"type": "rect",
 				"ratio": 1.433
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "haiwaikan",
@@ -316,8 +299,7 @@
 				"科幻片",
 				"纪录片",
 				"经典片"
-			],
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			]
 		},
 		{
 			"key": "星星",
@@ -326,8 +308,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "泥巴弹幕版",
@@ -339,8 +320,7 @@
 			"ext": {
 				"danmu": true
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "短剧",
@@ -353,8 +333,7 @@
 				"type": "rect",
 				"ratio": 1.433
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "看球",
@@ -366,8 +345,7 @@
 			"style": {
 				"type": "list"
 			},
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "虎牙直播js",
@@ -382,8 +360,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "斗鱼js",
@@ -398,8 +375,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "聚短视频js",
@@ -410,8 +386,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "海洋听书js",
@@ -426,8 +401,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "达达龟js",
@@ -438,8 +412,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "555电影js",
@@ -450,8 +423,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/555dy_v2.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "libvio_js",
@@ -462,8 +434,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/libvio.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "nmys_js",
@@ -474,8 +445,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "ntdm_js",
@@ -486,8 +456,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ntdm.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "dmd_js",
@@ -498,8 +467,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "yishijiedm_js",
@@ -510,8 +478,7 @@
 			"filterable": 1,
 			"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
 			"ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js",
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "新6V",
@@ -520,8 +487,7 @@
 			"api": "csp_Xb6v",
 			"searchable": 1,
 			"changeable": 0,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "暴風",
@@ -530,8 +496,7 @@
 			"api": "https://bfzyapi.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "索尼",
@@ -540,8 +505,7 @@
 			"api": "https://suoniapi.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "快帆",
@@ -550,8 +514,7 @@
 			"api": "https://api.kuaifan.tv/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "量子",
@@ -560,8 +523,7 @@
 			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
 			"changeable": 1,
-			"timeout": 10,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 10
 		},
 		{
 			"key": "csp_QuPanSou",
@@ -575,8 +537,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "csp_Qkpanso",
@@ -590,8 +551,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "csp_AiPanSou",
@@ -605,8 +565,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "纸条",
@@ -620,8 +579,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "盘Se",
@@ -635,8 +593,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "找資源",
@@ -650,8 +607,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "七夜",
@@ -665,8 +621,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "盘搜",
@@ -680,8 +635,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "易搜",
@@ -696,8 +650,7 @@
 				"danmu": true,
 				"cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "Up云搜",
@@ -711,8 +664,7 @@
 				"token": "file://TV/ali_token.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "云盘4K",
@@ -727,8 +679,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		},
 		{
 			"key": "push_agent",
@@ -743,8 +694,7 @@
 				"cookie": "file://TV/quark_cookie.txt",
 				"danmu": true
 			},
-			"timeout": 15,
-			"jar": "https://cdn.leisu.com/attachments/2024/02/25/Fo2FHgOY5wpRekF4p4NKHP44sU2Y.png"
+			"timeout": 15
 		}
 	],
 	"rules": [
@@ -941,5 +891,5 @@
 		"mozai.4gtv.tv"
 	],
 	"wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-	"spider": "https://cdn.leisu.com/attachments/2024/02/27/Fj1q65ODkrdfQYRNpVHs5pUo_rZl.png"
+	"spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;ed4a691812fda42513994cd36f900011"
 }
