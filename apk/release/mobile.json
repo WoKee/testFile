@@ -1,6 +1,6 @@
 {
-  "code": 2291,
-  "name": "2.2.9_1",
+  "code": 2292,
+  "name": "2.2.9_2",
   "invitation": "1811",
-  "desc": "* [TV]去除首页菜单键设置 \n* [TV]去除首页历史冗余逻辑\n* [手机]去除首页换线设置\n* 同步2.2.9 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "desc": "* 修复扫码弹窗 \n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
