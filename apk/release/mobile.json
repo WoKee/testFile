@@ -1,6 +1,6 @@
 {
-  "code": 2292,
-  "name": "2.2.9_2",
+  "code": 2293,
+  "name": "2.2.9_3",
   "invitation": "1811",
   "desc": "*[墙裂推荐更新]\n* 优化多仓逻辑 \n* 修复扫码弹窗 \n* 如更新失败，请使用数据网络更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
