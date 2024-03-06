@@ -73,19 +73,6 @@
       "timeout": 25
     },
     {
-      "key": "996影院",
-      "name": "📚996┃🆗",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
       "key": "360弹幕",
       "name": "🔰360 | 🆗",
       "type": 3,
