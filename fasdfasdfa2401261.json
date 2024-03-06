@@ -83,6 +83,20 @@
         "danmu": true
       },
       "timeout": 10
+    },{
+      "key": "南坊弹幕版",
+      "name": "🏠南坊 | 🆗",
+      "type": 3,
+      "api": "csp_AppTo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+      "ext": {
+        "danmu": true,
+        "string": "q5yN18yc0lGZlJ3YjF2Lt92YuQWdvx2YxlXbukWYodmbhh2ctAXYuM3bj5CN0gDM3kTM1ITMtMWasJWdw1SN29yL6MHc0RHac29u"
+      },
+      "timeout": 10
     },
     {
       "key": "nmys_js",
