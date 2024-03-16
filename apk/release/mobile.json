@@ -1,5 +1,5 @@
 {
-  "code": 2301,
+  "code": 2303,
   "name": "2.3.0_3",
   "desc": "* [TV]首页推荐/最近观看增加开关 \n* 官源解析增加超级解析开关\n* 同步2.3.0 \n* 如更新失败，请使用手机数据网络打开热点连接更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
