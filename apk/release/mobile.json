@@ -1,5 +1,5 @@
 {
-  "code": 2311,
-  "name": "2.3.1_1",
-  "desc": "* 增加jar缓存逻辑 \n* 优化接口缓存逻辑\n* 同步2.3.1 \n* 如更新失败，请使用手机数据网络打开热点连接更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2312,
+  "name": "2.3.1_2",
+  "desc": "[推荐更新]\n* 增加jar缓存逻辑 \n* 优化接口缓存逻辑\n* 配置改动时，可刷新仓库或长按点播小房子强制刷新缓存，无需关闭缓存配置\n* 同步2.3.1 \n* 如更新失败，请使用手机数据网络打开热点连接更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
