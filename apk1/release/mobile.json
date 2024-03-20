@@ -1,5 +1,5 @@
 {
-  "code": 2315,
-  "name": "2.3.1_5",
-  "desc": "【后续基于此版本维护,请更新】\n* 优化相对路径的处理方式 \n* 新的备份路径与影视原版分离,也不再兼容老版本的备份\n重新拉仓或长按点播小房子可自动清空缓存，无需调整接口缓存配置开关\n\n* 如更新失败，请使用手机数据网络更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "code": 2316,
+  "name": "2.3.1_6",
+  "desc": "【后续基于此版本维护,请更新】\n* 修复相对路径的处理方式 \n* 新的备份路径与影视原版分离,也不再兼容老版本的备份\n重新拉仓或长按点播小房子可自动清空缓存，无需调整接口缓存配置开关\n\n* 如更新失败，请使用手机数据网络更新\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
