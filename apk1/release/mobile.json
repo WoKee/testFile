@@ -1,5 +1,5 @@
 {
-  "code": 2318,
-  "name": "2.3.1_8",
+  "code": 2317,
+  "name": "2.3.1_7",
   "desc": "* 调整接口缓存模式，仅针对在线接口。本地包无需关闭缓存配置。\n* jar缓存智能模式上线，秒速加载，去除开关设置。\n* 如更新失败，请使用手机数据网络更新,如部分设备报毒无法安装，《设置-点击查看其他版本》通过浏览器下载后，尝试断网安装。\n* 特性\n  添加单/多仓支持,仓源记忆,自动识别\n  支持<影视>共存,原汁原味无添加\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
