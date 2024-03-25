@@ -12,23 +12,6 @@
       "filterable": 0
     },
     {
-      "key": "我的阿里",
-      "name": "🐱我的|阿里",
-      "type": 3,
-      "api": "csp_MyAli",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
       "key": "配置中心",
       "name": "👨‍🍳‍配置┃中心",
       "type": 3,
