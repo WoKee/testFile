@@ -1,5 +1,5 @@
 {
-  "use_internal_storage":false,
+  "use_internal_storage":true,
   "token":"http://127.0.0.1:9978/file/TV/ali_token.txt",
   "open_token":"",
   "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
@@ -12,7 +12,7 @@
   "vip_thread_limit":32,
   "vod_flags":"4kz|auto",
   "quark_thread_limit":32,
-  "quark_is_vip":false,
+  "quark_is_vip":true,
   "quark_vip_thread_limit":32,
   "quark_flags":"4kz|auto",
   "uc_thread_limit":0,
