@@ -1,6 +1,6 @@
 {
   "use_internal_storage":true,
-  "token":"http://127.0.0.1:9978/file/TV/ali_token.txt",
+  "token":"",
   "open_token":"",
   "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
   "oauth_client_id":"",
