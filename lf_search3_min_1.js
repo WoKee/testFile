@@ -587,38 +587,6 @@ function _0x534ad1(_0x57bbdb) {
     '电影筛选': 'moviefilter',
     '电视筛选': 'tvfilter'
   };
-  if (!_0xa2b3dd['private_flag']) {
-    let _0x3ff1f2 = req('https://www.netflix.com/tudum/top10', {
-      'timeout': 0xbb8,
-      'headers': {
-        'Referer': 'https://www.netflix.com/',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82'
-      }
-    })['content'];
-    !_0x3ff1f2['match'](/Not Available/im) && (_0x1a2852 = {
-      '海外': 'gw',
-      '最近更新': 'recentlyupdated',
-      '热门电影': 'hotmovie',
-      '热门剧集': 'hottv',
-      '热门综艺': 'hotzy',
-      '热门动漫': 'hotdm',
-      '电影榜单': 'movielist',
-      '电视榜单': 'tvlist',
-      '电影筛选': 'moviefilter',
-      '电视筛选': 'tvfilter'
-    });
-  } else _0x1a2852 = {
-    '海外': 'gw',
-    '最近更新': 'recentlyupdated',
-    '热门电影': 'hotmovie',
-    '热门剧集': 'hottv',
-    '热门综艺': 'hotzy',
-    '热门动漫': 'hotdm',
-    '电影榜单': 'movielist',
-    '电视榜单': 'tvlist',
-    '电影筛选': 'moviefilter',
-    '电视筛选': 'tvfilter'
-  };
   for (let _0x5288b2 in _0x1a2852) {
     _0x1dad0c['push']({
       'type_id': _0x1a2852[_0x5288b2],
