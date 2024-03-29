@@ -636,6 +636,7 @@
       "key": "索尼资源",
       "name": "索尼┃资源",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
         "动作片",
@@ -841,6 +842,7 @@
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
@@ -883,6 +885,7 @@
       "key": "暴風",
       "name": "暴風",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -891,6 +894,7 @@
       "key": "索尼",
       "name": "索尼 ",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -899,6 +903,7 @@
       "key": "快帆",
       "name": "快帆",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -907,6 +912,7 @@
       "key": "量子",
       "name": "量子",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
@@ -916,6 +922,7 @@
       "key": "非凡",
       "name": "非凡",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
@@ -1007,6 +1014,7 @@
       "key": "MV_vod",
       "name": "电视┃MTV",
       "type": 1,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 0,
