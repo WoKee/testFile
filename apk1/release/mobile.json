@@ -1,5 +1,5 @@
 {
   "code": 2318,
   "name": "2.3.1_8",
-  "desc": "[可选更新]\n* exo升级1.3.0\n* 修复缓存模式下，直播源设置无效问题 \n* 如更新失败，请使用手机数据网络更新,如部分设备报毒无法安装，《设置-点击查看其他版本》通过浏览器下载后，尝试断网安装。\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
+  "desc": "[可选更新]\n* 同步2.3.2 \n* 优化多仓引子效果\n* 如更新失败，请使用手机数据网络更新,如部分设备报毒无法安装，《设置-点击查看其他版本》通过浏览器下载后，尝试断网安装。\n# 基於 CatVod 項目\nhttps://github.com/CatVodTVOfficial/CatVodTVJarLoader\nhttps://github.com/FongMi/TV"
 }
