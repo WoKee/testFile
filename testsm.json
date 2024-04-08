@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "./testsm.json",
+      "url": "./pg/jsm.json",
       "name": "pg"
     }
   ]

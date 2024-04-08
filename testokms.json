@@ -2,12 +2,12 @@
   "storeHouse": [
     {
       "sourceName": "壳弹开",
-      "sourceUrl": "./pg/jsm.json",
+      "sourceUrl": "./testsm.json",
       "parse": "{\"danma\": true}"
     },
     {
       "sourceName": "壳弹关",
-      "sourceUrl": "./pg/jsm.json",
+      "sourceUrl": "./testsm.json",
       "parse": "{\"danma\": false}"
     }
   ]
