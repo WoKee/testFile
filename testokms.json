@@ -1,9 +1,14 @@
 {
   "storeHouse": [
     {
-      "sourceName": "测试在线1",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/adfasfa.json",
-      "parse": "{\"danma\": true, \"ext\": \"65e6975285c7b8245b21f988\"}"
+      "sourceName": "弹幕开",
+      "sourceUrl": "./pg/jsm.json",
+      "parse": "{\"danma\": true}"
+    },
+    {
+      "sourceName": "弹幕关",
+      "sourceUrl": "./pg/jsm.json",
+      "parse": "{\"danma\": false}"
     }
   ]
 }
