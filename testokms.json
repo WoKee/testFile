@@ -7,7 +7,7 @@
     },
     {
       "sourceName": "壳弹关",
-      "sourceUrl": "./testsm.json",
+      "sourceUrl": "./testsm1.json",
       "parse": "{\"danma\": false}"
     }
   ]
