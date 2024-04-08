@@ -1,4 +1,12 @@
 {
-"e_date": "20240117",
-"data":"K8sqQZvDoW5/RfvsuaFyzTZslcZ7pSPO3g0yVkYoR3ME6eFZRsr9xgLsu+8dSd2outjjT7pUB3hT0YyvUUFPleo8+1NqiYpPLEHEfpxrQ4Yz+IolU0Qq9sdQ633uq/yGnDmUmoHk1oiCjz8ZQBp05Mi09EBlbCNRvonbiwYEZOQXdSc88JgdcPqlHT4PUOrWCDLo5IjShe0Eiy0pwCKvGvQ3rU2r9zGoBTSHd5R9xOpyslXQw8kG4wwuvdsghdXCF6GRc0x3m6iNU9+N5130JHZW2KNubIqQeeTST6fu8YoV9/nW3xuTxLVL48mFJ7Ha+15g9jlgH6qemh74cCBHm0Hin2XAqAB8EHb+zSNydus="
+  "storeHouse": [
+    {
+      "sourceName": "测试在线1",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/adfasfa.json",
+      "parse": "{\"danma\": true, \"ext\": \"65e6975285c7b8245b21f988\"}"
+    }
+  ]
 }
+
+
+
