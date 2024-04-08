@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "url": "./testsm.json",
+      "name": "pg"
+    }
+  ]
+}
