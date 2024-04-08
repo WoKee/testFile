@@ -1,12 +1,12 @@
 {
   "storeHouse": [
     {
-      "sourceName": "弹幕开",
+      "sourceName": "壳弹开",
       "sourceUrl": "./pg/jsm.json",
       "parse": "{\"danma\": true}"
     },
     {
-      "sourceName": "弹幕关",
+      "sourceName": "壳弹关",
       "sourceUrl": "./pg/jsm.json",
       "parse": "{\"danma\": false}"
     }
