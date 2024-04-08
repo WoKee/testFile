@@ -156,6 +156,22 @@
       }
     },
     {
+      "ext": "eyJhcGkiOiJodHRwOi8vNDcuMTIwLjM3LjE3NTo0NTY3IiwidG9rZW4iOiIifQ==",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "🏀sp网盘【🅰️】",
+      "changeable": 0,
+      "jar": "http://47.120.37.175:4567/spring.jar",
+      "style": {
+        "type": "rect"
+      },
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "timeout": 60,
+      "key": "csp_XiaoYa",
+      "searchable": 1
+    },
+    {
       "key": "drpy_js_磁力熊",
       "name": "磁力熊[js]|索引",
       "type": 3,
