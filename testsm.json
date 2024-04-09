@@ -3,6 +3,10 @@
     {
       "url": "./pg/jsm.json",
       "name": "pg"
+    },
+    {
+      "url": "./testok.json",
+      "name": "ok"
     }
   ]
 }
