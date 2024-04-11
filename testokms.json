@@ -3,12 +3,11 @@
     {
       "sourceName": "壳弹开",
       "sourceUrl": "./testsm.json",
-      "parse": "{\"danma\": true}"
+      "parse": "{\"danma\": true,\"danma\": [\"#FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     },
     {
       "sourceName": "壳弹关",
-      "sourceUrl": "./testsm1.json",
-      "parse": "{\"danma\": false}"
+      "sourceUrl": "./testsm1.json"
     }
   ]
 }
