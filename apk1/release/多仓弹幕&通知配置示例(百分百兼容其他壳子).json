@@ -1,0 +1,48 @@
+/*
+多仓配置拓展，以仓为单位,百分百兼容其他多仓TVBOX软件。
+
+影视_多仓 D1_2.3.3_2 以上版本支持
+
+壳子弹幕配置：
+danma : true 开 false 关。 是否使用壳子弹幕，不依赖jar提供的弹幕模式。
+danma_colors :颜色配置。支持 argb(带透明度#80FF0000)、 rgb(常规#FF0000) 。 随机读取，可通过添加多个相同色值实现权重，比如2个红色 1个黄色 红色出现的概率即66.666%，以此同理   
+壳子弹幕开后，加载失败后会自动重试至线路jar的弹幕，无需额外操作。
+弹幕配置调整后，需app手动刷新仓库配置。
+
+壳子仓库更新通知配置：
+notifyUpdate : true 开 false 关。 当多仓任意配置改变时（比如新增、删除、更新仓等操作），是否通知仓库用户更新让用户及时更新该配置。 推荐为 true
+具体显示为：首页打开吐司提示和设置仓库小房子上小红点标识。 
+
+欢迎各位大佬配置体验。仅限本群内使用，请勿传播。
+
+另：影视_多仓也可以配置单仓或者普通线路哦
+*/
+{
+  "storeHouse": [
+    {
+      "sourceName": "壳弹开",
+      /*相对路径范例，适用范围最广，放置于同文件夹的配置。*/
+      "sourceUrl": "./xx.json",
+      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+    },
+    {
+      "sourceName": "壳弹开",
+      /*网络仓库全路径范例*/
+      "sourceUrl": "http://xx/xx/xx.json",
+      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+    },
+    {
+      "sourceName": "壳弹开",
+      /*本地仓库全路径范例*/
+      "sourceUrl": "file://xx/xx/xx.json",
+      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+    },
+    {
+      "sourceName": "壳弹开",
+      /*本地仓库全路径范例2*/
+      "sourceUrl": "http://127.0.0.1:9987/file/xx/xx/xx.json",
+      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+    }
+  ],
+  "notifyUpdate": true
+}
