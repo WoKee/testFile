@@ -1,7 +1,7 @@
 /*
 多仓配置拓展，以仓为单位,百分百兼容其他多仓TVBOX软件。
 
-影视_多仓 D1_2.3.3_2 以上版本支持
+影视_多仓 D1_X 以上版本支持
 
 壳子弹幕配置：
 danma : true 开 false 关。 是否使用壳子弹幕，不依赖jar提供的弹幕模式。
@@ -10,7 +10,9 @@ danma_colors :颜色配置。支持 argb(带透明度#80FF0000)、 rgb(常规#FF
 弹幕配置调整后，需app手动刷新仓库配置。
 
 壳子仓库更新通知配置：
-notifyUpdate : true 开 false 关。 当多仓任意配置改变时（比如新增、删除、更新仓等操作），是否通知仓库用户更新让用户及时更新该配置。 推荐为 true
+notifyUpdate : true 开 false 关。
+updateTime : 更新时间（可选配置）。
+当多仓任意配置改变时（比如新增、删除、更新仓等操作），是否通知仓库用户更新让用户及时更新该配置。 推荐为 true
 具体显示为：首页打开吐司提示和设置仓库小房子上小红点标识。 
 
 欢迎各位大佬配置体验。仅限本群内使用，请勿传播。
@@ -44,5 +46,6 @@ notifyUpdate : true 开 false 关。 当多仓任意配置改变时（比如新�
       "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     }
   ],
-  "notifyUpdate": true
+  "notifyUpdate": true,
+  "updateTime": "2024-04-30"
 }
