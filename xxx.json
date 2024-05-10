@@ -1,0 +1,22 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "WoKee|影视",
+      "sourceUrl": "./adfasfa.json",
+      "parse": "{\"logo\": \"./logo/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#FFAAAA\",\"#FFF0F5\",\"#DB7093\",\"#FF69B4\",\"#C71585\",\"#DA70D6\",\"#D8BFD8\",\"#DDA0DD\",\"#EE82EE\",\"#FF00FF\",\"#FF00FF\",\"#8B008B\",\"#800080\",\"#BA55D3\",\"#9400D3\",\"#9932CC\",\"#4B0082\",\"#8A2BE2\",\"#9370DB\",\"#7B68EE\",\"#6A5ACD\",\"#483D8B\",\"#E6E6FA\",\"#F8F8FF\",\"#4169E1\",\"#6495ED\",\"#B0C4DE\",\"#778899\",\"#1E90FF\",\"#F0F8FF\",\"#4682B4\",\"#87CEFA\",\"#87CEEB\",\"#00BFFF\",\"#ADD8E6\",\"#B0E0E6\",\"#5F9EA0\",\"#E1FFFF\",\"#00CED1\",\"#20B2AA\",\"#7FFFAA\",\"#00FA9A\",\"#FFFFF0\",\"#FFFFE0\",\"#FFFF00\",\"#FFFACD\",\"#FFD700\",\"#F5DEB3\",\"#FFE4B5\",\"#FFEFD5\",\"#FFDEAD\",\"#FAEBD7\",\"#FF7F50\",\"#E9967A\",\"#FF6347\",\"#FFE4E1\",\"#FA8072\",\"#F08080\",\"#A52A2A\",\"#B22222\",\"#800000\",\"#8B0000\",\"#C0C0C0\",\"#FA8072\",\"#FFFAFA\",\"#D2691E\",\"#CD853F\",\"#FFDAB9\",\"#DEB887\",\"#FAEBD7\",\"#FFEBCD\"]}"
+    },
+    {
+      "sourceName": "WoKee|课堂",
+      "sourceUrl": "./fadfasdfa.json"
+    },
+    {
+      "sourceName": "WoKee|戏曲",
+      "sourceUrl": "./erqrqqrw.json"
+    },
+    {
+      "sourceName": "WoKee|相声小品",
+      "sourceUrl": "./fafaljfaoiopr.json"
+    }
+  ],
+  "notifyUpdate": true
+}
