@@ -3,6 +3,9 @@
 
 影视_多仓 D1_X 以上版本支持
 
+仓库logo配置 ：
+logo ： 仓库优先级大于线路。 支持全路径、缺省路径。 可配置gif动图
+
 壳子弹幕配置：
 danma : true 开 false 关。 是否使用壳子弹幕，不依赖jar提供的弹幕模式。
 danma_colors :颜色配置。支持 argb(带透明度#80FF0000)、 rgb(常规#FF0000) 。 随机读取，可通过添加多个相同色值实现权重，比如2个红色 1个黄色 红色出现的概率即66.666%，以此同理   
@@ -25,27 +28,27 @@ updateTime : 更新时间（可选配置）。
       "sourceName": "壳弹开",
       /*相对路径范例，适用范围最广，放置于同文件夹的配置。*/
       "sourceUrl": "./xx.json",
-      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+      "parse": "{\"logo\": \"./logo/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     },
     {
       "sourceName": "壳弹开",
       /*网络仓库全路径范例*/
       "sourceUrl": "http://xx/xx/xx.json",
-      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+      "parse": "{\"logo\": \"./logo/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     },
     {
       "sourceName": "壳弹开",
       /*本地仓库全路径范例*/
       "sourceUrl": "file://xx/xx/xx.json",
-      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+      "parse": "{\"logo\": \"./logo/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     },
     {
       "sourceName": "壳弹开",
       /*本地仓库全路径范例2*/
       "sourceUrl": "http://127.0.0.1:9987/file/xx/xx/xx.json",
-      "parse": "{\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
+      "parse": "{\"logo\": \"./logo/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#80FF0000\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     }
   ],
   "notifyUpdate": true,
-  "updateTime": "2024-04-30"
+  "updateTime": "2024-04-30 11:11:11"
 }
