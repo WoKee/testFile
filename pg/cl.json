@@ -130,18 +130,6 @@
       "timeout": 60
     },
     {
-      "key": "drpy_js_磁力熊",
-      "name": "🦄磁力熊",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/cilixiongp.js",
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "indexs": 1
-    },
-    {
       "key": "Wo4k",
       "name": "🦄玩偶",
       "type": 3,
@@ -162,17 +150,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"
-    },
-    {
-      "key": "Bdys_spider",
-      "name": "🦄哔滴",
-      "api": "csp_Bdys01",
-      "type": 3,
-      "filterable": 1,
-      "searchable": 0,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://www.yjys.me/$$$null$$$1"
     },
     {
       "key": "小白",
@@ -249,40 +226,6 @@
       "jar": "./lib/XBPQ.jar"
     },
     {
-      "key": "drpy_js_酷吧",
-      "name": "🦄酷吧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kuba.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "BLSGod",
-      "name": "🦄BLSGod",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "Xunlei8",
-      "name": "🦄Xunlei8",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "SeedHub",
-      "name": "🦄SeedHub",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
       "key": "85128",
       "name": "🦄八五",
       "type": 3,
@@ -315,7 +258,8 @@
         "分类": "电影$1#电视剧$3#3D$2",
         "分类url":"https://www.7bttt.com/?m=vod-type-id-{cateId}-pg-{catePg}.html[https://www.7bttt.com/?m=vod-type-id-{cateId}.html]"
       }
-    },{
+    },
+    {
       "key": "番薯",
       "name": "🦄番薯",
       "type": 3,
@@ -353,7 +297,8 @@
         "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#舞台$wutai#纪录片$jilupian",
         "分类url": "https://www.magedn.cc/movie_bt_series/{cateId}/page/{catePg}[https://www.magedn.cc/movie_bt_series/{cateId}]"
       }
-    },{
+    },
+    {
       "key": "狸云",
       "name": "🦄狸云",
       "type": 3,
