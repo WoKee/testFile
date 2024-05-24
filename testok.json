@@ -268,7 +268,7 @@
   ],
   "parses": [
     {
-      "name": "巧技",
+      "name": "官解json_1",
       "type": 1,
       "url": "ms_6650342be62a672ee1898733",
       "ext": {
@@ -294,9 +294,36 @@
       }
     },
     {
-      "name": "巧技二",
+      "name": "官解json_2",
       "type": 1,
       "url": "ms_665034a7e62a672ee1898734",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ]
+      }
+    },
+    {
+      "name": "官解json_3",
+      "type": 1,
+      "url": "ms_6650390de62a672ee189876c",
       "ext": {
         "flag": [
           "qq",
