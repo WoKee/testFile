@@ -6,10 +6,13 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
-          ]
+          "name": "春盈直播加密",
+          "type": 1,
+          "url": "ms_6646f3da0b2d9e69f278cf1e",
+          "playerType": 1,
+          "ua": "okhttp/3.15",
+          "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
       ]
     }
@@ -269,7 +272,7 @@
   "parses": [
     {
       "name": "官解json_1",
-      "type": 1,
+      "type": 0,
       "url": "ms_6650342be62a672ee1898733",
       "ext": {
         "flag": [
@@ -295,7 +298,7 @@
     },
     {
       "name": "官解json_2",
-      "type": 1,
+      "type": 0,
       "url": "ms_665034a7e62a672ee1898734",
       "ext": {
         "flag": [
@@ -322,7 +325,7 @@
     },
     {
       "name": "官解json_3",
-      "type": 1,
+      "type": 0,
       "url": "ms_6650390de62a672ee189876c",
       "ext": {
         "flag": [
@@ -349,7 +352,7 @@
     },
     {
       "name": "官解json_3",
-      "type": 1,
+      "type": 0,
       "url": "ms_665039860b2d9e69f279b4c0",
       "ext": {
         "flag": [
