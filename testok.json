@@ -346,6 +346,33 @@
           "NetFilx"
         ]
       }
+    },
+    {
+      "name": "官解json_3",
+      "type": 1,
+      "url": "ms_665039860b2d9e69f279b4c0",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ]
+      }
     }
   ],
   "flags": [
