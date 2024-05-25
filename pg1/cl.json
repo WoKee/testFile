@@ -314,15 +314,6 @@
         "分类": "蓝光-4k-电影$蓝光-4k-电影#精选剧集$精选剧集",
         "分类url": "https://www.lysvc.cc/archives/category/%e5%bd%b1%e8%a7%86%e8%b5%84%e6%ba%90/{cateId}/page/{catePg}"
       }
-    },
-    {
-      "key": "蜜桃_js",
-      "name": "🦄",
-      "type": 3,
-      "api": "./18/drpy/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./18/mt18.js"
     }
   ],
   "ads": [
