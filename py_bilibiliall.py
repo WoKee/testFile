@@ -11,7 +11,7 @@ from base.spider import Spider
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
-		return "B站"
+		return "B站番剧"
 
 	def init(self, extend):
 		try:
