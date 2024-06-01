@@ -5,7 +5,7 @@
       "key": "哔哩影视",
       "name": "改版B_all1+",
       "type": 3,
-      "api": "./py_bilibilidy1.py",
+      "api": "./py_bilibili_all.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

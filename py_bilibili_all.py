@@ -8,7 +8,7 @@ from difflib import SequenceMatcher
 from urllib.parse import quote, unquote
 sys.path.append('..')
 from base.spider import Spider
-
+# Edit : WoKee 2024/06/01
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
 		return "B站番剧"
