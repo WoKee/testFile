@@ -163,33 +163,12 @@ class Spider(Spider):  # 元类 默认的元类 type
 		except:
 			pass
 		cookie, _, _ = self.getCookie(cookie)
-        url = f'https://api.bilibili.com/x/web-interface/search/type?search_type=media_bangumi&keyword={key}&page={page}'
-		r = self.fetch(url, headers=self.header, cookies=cookie, timeout=5)
-		data = json.loads(self.cleanText(r.text))
-		if 'result' not in data['data']:
-			vodList = []
-		else:
-		    vodList = data['data']['result']
-		for vod in vodList:
-			sid = str(vod['season_id']).strip()
-			title = self.removeHtmlTags(self.cleanText(vod['title']))
-			if SequenceMatcher(None, title, key).ratio() < 0.6 and key not in title:
-				continue
-			img = vod['eps'][0]['cover'].strip()
-			remark = self.removeHtmlTags(vod['index_show']).strip()
-			videos.append({
-				"vod_id": sid,
-				"vod_name": title,
-				"vod_pic": img,
-				"vod_remarks": remark
-			})
 		url = f'https://api.bilibili.com/x/web-interface/search/type?search_type=media_ft&keyword={key}&page={page}&page_size=50'
 		r = self.fetch(url, headers=self.header, cookies=cookie, timeout=5)
 		data = json.loads(self.cleanText(r.text))
 		if 'result' not in data['data']:
-			vodList = []
-		else:
-			vodList = data['data']['result']
+			return {'list': videos}, 1
+		vodList = data['data']['result']
 		for vod in vodList:
 			sid = str(vod['season_id']).strip()
 			title = self.removeHtmlTags(self.cleanText(vod['title']))
@@ -203,9 +182,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 				"vod_pic": img,
 				"vod_remarks": remark
 			})
-		if len(videos) == 0:
-			return {'list': videos}, 1
-
 		result = {
 			'list': videos
 		}
