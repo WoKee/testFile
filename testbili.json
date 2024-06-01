@@ -1,9 +1,9 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix140412.jar",
+  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt",
   "sites": [
     {
       "key": "哔哩影视",
-      "name": "改版BL",
+      "name": "改版Bili",
       "type": 3,
       "api": "./py_bilibiliall.py",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "哔哩影视1",
-      "name": "原版BL",
+      "name": "原版Bili",
       "type": 3,
       "api": "./py_bilibilimd.py",
       "searchable": 1,
