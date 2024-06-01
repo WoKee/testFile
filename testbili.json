@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "哔哩影视",
-      "name": "改版Bili",
+      "name": "改版B_all",
       "type": 3,
       "api": "./py_bilibiliall.py",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "哔哩影视1",
-      "name": "原版Bili",
+      "name": "原版B_md",
       "type": 3,
       "api": "./py_bilibilimd.py",
       "searchable": 1,
