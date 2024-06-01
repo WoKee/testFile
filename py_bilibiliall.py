@@ -8,7 +8,7 @@ from difflib import SequenceMatcher
 from urllib.parse import quote, unquote
 sys.path.append('..')
 from base.spider import Spider
- # Edit:WoKee
+
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
 		return "B站番剧"
@@ -208,7 +208,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		
 
 		if len(videos) == 0:
-			return {'list': videos,'page': 1}
+			return {'list': videos},1
 
 		result = {
 			'list': videos
