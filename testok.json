@@ -14,6 +14,15 @@
   ],
   "sites": [
     {
+      "key": "哔哩影视",
+      "name": "📺丨哔哩 官【🅱️】",
+      "type": 3,
+      "api": "./py_bilibiliall.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "南瓜",
       "name": "南瓜┃App",
       "type": 3,
@@ -266,7 +275,7 @@
   ],
   "parses": [
     {
-      "name": "官解json_1",
+      "name": "多仓官解——1",
       "type": 0,
       "url": "ms_6650342be62a672ee1898733",
       "ext": {
