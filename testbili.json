@@ -18,6 +18,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },{
+      "key": "哔哩影视2",
+      "name": "原版B_dy",
+      "type": 3,
+      "api": "./py_bilibilidy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "南瓜",
