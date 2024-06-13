@@ -9,7 +9,7 @@
       "timeout": 30,
       "searchable": 1,
       "changeable": 1,
-      "jar": ".jar/local.jar"
+      "jar": "./jar/local.jar"
     },
     {
       "key": "jinpai1",
@@ -19,7 +19,7 @@
       "timeout": 30,
       "searchable": 1,
       "changeable": 1,
-      "jar": ".jar/local1.jar"
+      "jar": "./jar/local1.jar"
     },
     {
       "key": "susu",
@@ -29,14 +29,14 @@
       "changeable": 1,
       "timeout": 30,
       "searchable": 1,
-      "jar": ".jar/local1.jar"
+      "jar": "./jar/local1.jar"
     },
     {
       "key": "Local",
       "name": "本地",
       "type": 3,
       "api": "csp_Local",
-      "jar": ".jar/local1.jar"
+      "jar": "./jar/local1.jar"
     },
     {
       "key": "push_agent",
