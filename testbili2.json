@@ -2,41 +2,39 @@
   "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt",
   "sites": [
     {
-      "key": "哔哩影视",
-      "name": "改版B_all1+",
+      "key": "jinpai",
+      "name": "金牌jar",
       "type": 3,
-      "api": "./py_bilibili_all.py",
+      "api": "csp_JinPai",
+      "timeout": 30,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1,
+      "jar": ".jar/local1.jar"
     },
     {
-      "key": "哔哩影视1",
-      "name": "原版B_md",
+      "key": "susu",
+      "name": "苏苏jar",
       "type": 3,
-      "api": "./py_bilibilimd.py",
+      "api": "csp_SuSu",
+      "changeable": 1,
+      "timeout": 30,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },{
-      "key": "哔哩影视2",
-      "name": "原版B_dy",
-      "type": 3,
-      "api": "./py_bilibilidy.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "jar": ".jar/local1.jar"
     },
     {
-      "key": "南瓜",
-      "name": "南瓜┃App",
+      "key": "Local",
+      "name": "本地",
       "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
+      "api": "csp_Local",
+      "jar": ".jar/local1.jar"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "changeable": 0,
+      "timeout": 30
     }
   ]
 }
