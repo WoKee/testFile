@@ -9,6 +9,16 @@
       "timeout": 30,
       "searchable": 1,
       "changeable": 1,
+      "jar": ".jar/local.jar"
+    },
+    {
+      "key": "jinpai1",
+      "name": "金牌jar",
+      "type": 3,
+      "api": "csp_JinPai",
+      "timeout": 30,
+      "searchable": 1,
+      "changeable": 1,
       "jar": ".jar/local1.jar"
     },
     {
