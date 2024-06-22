@@ -613,7 +613,7 @@ function _0x534ad1(_0x4fd535) {
             'type_name': _0x1bb93c
         });
     }
-      _0x1e1e6c = {};
+  
     return _0x1e1e6c[_0x3d3b18(0x302)] = _0x52e8fd, JSON['stringify'](_0x1e1e6c);
 }
 
