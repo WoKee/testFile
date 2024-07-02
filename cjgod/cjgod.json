@@ -158,7 +158,7 @@
     },
     {
       "name": "淘片",
-      "url": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
