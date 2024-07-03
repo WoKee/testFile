@@ -1,6 +1,6 @@
 {
   "filter_timeout": 8,
-  "search_timeout": 5,
+  "search_timeout": 3,
   "disable_18": 1,
   "sites": [
     {
