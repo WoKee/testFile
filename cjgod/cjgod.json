@@ -1,7 +1,7 @@
 {
   "filter_timeout": 8,
   "search_timeout": 8,
-  "search_count": 8,
+  "search_count": 10,
   "disable_18": 1,
   "sites": [
     {
@@ -73,8 +73,44 @@
       "disable_filter": 0
     },
     {
+      "name": "淘片",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
       "name": "华为",
       "url": "https://hw8.live/api.php/provide/vod/at/json",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "樱花",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "量子",
+      "url": "https://lzizy7.com/api.php/provide/vod/from/lzm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "非凡",
+      "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
+      "type": 1,
+      "disable_search": 0,
+      "disable_filter": 0
+    },
+    {
+      "name": "看看",
+      "url": "https://zy.hikan.xyz/api.php/provide/vod/",
+      "playUrl": "json:https://www.dmplay.xyz/decrypt/index?url=",
       "type": 1,
       "disable_search": 0,
       "disable_filter": 0
@@ -144,35 +180,6 @@
       "disable_filter": 0
     },
     {
-      "name": "量子",
-      "url": "https://lzizy7.com/api.php/provide/vod/from/lzm3u8",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "非凡",
-      "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "淘片",
-      "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
-      "name": "看看",
-      "url": "https://zy.hikan.xyz/api.php/provide/vod/",
-      "playUrl": "json:https://www.dmplay.xyz/decrypt/index?url=",
-      "type": 1,
-      "disable_search": 0,
-      "disable_filter": 0
-    },
-    {
       "name": "天空",
       "url": "https://api.tiankongapi.com/api.php/provide/vod/",
       "type": 1,
@@ -199,13 +206,6 @@
       "url": "https://jyzyapi.com/provide/vod/at/xml/from/jinyingm3u8",
       "type": 0,
       "disable_search": 1,
-      "disable_filter": 0
-    },
-    {
-      "name": "樱花",
-      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "type": 1,
-      "disable_search": 0,
       "disable_filter": 0
     },
     {
