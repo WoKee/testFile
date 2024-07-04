@@ -1,7 +1,7 @@
 {
   "filter_timeout": 8,
   "search_timeout": 8,
-  "search_count": 1,
+  "search_count": 8,
   "disable_18": 1,
   "sites": [
     {
