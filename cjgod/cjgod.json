@@ -27,15 +27,15 @@
     //    "disable_filter": 0,
     //    }
     {
-      "name": "新浪",
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
+      "name": "豪华",
+      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
       "type": 1,
       "disable_search": 1,
       "disable_filter": 0
     },
     {
-      "name": "豪华",
-      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
+      "name": "新浪",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
       "type": 1,
       "disable_search": 1,
       "disable_filter": 0
