@@ -26,6 +26,11 @@
     //    // 默认0 可选配置。0启用分类， 1关闭分类。部分采集站需梯子或分类总是获取失败可以关闭,可加快首页的载入速度
     //    "disable_filter": 0,
     //    }
+ {
+      "name": "木耳",
+      "url": "https://json.heimuer.xyz/api.php/provide/vod",
+      "type": 1
+    },
     {
       "name": "豪华",
       "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
@@ -93,14 +98,10 @@
       "name": "淘片",
       "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
       "type": 1,
-      "disable_search": 0,
+      "disable_search": 1,
       "disable_filter": 0
     },
-    {
-      "name": "木耳",
-      "url": "https://json.heimuer.xyz/api.php/provide/vod",
-      "type": 1
-    },
+   
     {
       "name": "华为",
       "url": "https://hw8.live/api.php/provide/vod/at/json",
