@@ -1,0 +1,71 @@
+{
+  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt",
+  "sites": [
+    {
+      "key": "lf_js_search",
+      "name": "路飞改版",
+      "type": 3,
+      "api": "./lf_search3_domestic_min.js",
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "indexs": 1,
+      "filterable": 1
+    }, {
+      "key": "哔哩影视",
+      "name": "哔哩改版",
+      "type": 3,
+      "api": "./py_bilibiliall.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },{
+      "key": "jinpai",
+      "name": "金牌【jar】",
+      "type": 3,
+      "api": "csp_JinPai",
+      "timeout": 30,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/local.jar"
+    },
+    {
+      "key": "susu",
+      "name": "苏苏【jar】",
+      "type": 3,
+      "api": "csp_SuSu",
+      "changeable": 1,
+      "timeout": 30,
+      "searchable": 1,
+      "jar": "./jar/local.jar"
+    },
+    {
+      "key": "Local",
+      "name": "本地文件(搜索)",
+      "type": 3,
+      "api": "csp_Local",
+      "jar": "./jar/local.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cjgod",
+      "name": "采集之王【jar】",
+      "type": 3,
+      "api": "csp_CjGod",
+      "timeout": 30,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./cjgod/cjgod.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "changeable": 0,
+      "timeout": 30
+    }
+  ]
+}
