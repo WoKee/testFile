@@ -72,7 +72,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt"
+      "jar": "./ok/okjpg.txt"
     }
   ]
 }
