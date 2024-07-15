@@ -2,6 +2,6 @@
   "code": 123434,
   "name": "D2_0627",
   "force": false,
-  "app_icon" : "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLmljbw==",
+  "app_icon" : "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLnRlbXA=",
   "desc": "[0627新增弹幕完整性判断,获取官源的时长匹配校验,可能会多1秒钟的等待]弹幕源：五大站全自写，在视频第一秒会显示加载到的弹幕数量，注意观察弹幕数量、时长、准确性等。后续优化 \n此版本未添加备选站，再测试完结后再添加。\n 画中画、直播去广告问题处理"
 }
