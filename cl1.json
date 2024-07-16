@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "采集",
+      "name": "🦄影视|大全",
+      "type": 3,
+      "api": "csp_CjGod",
+      "ext": "./cjgod/cjgod18.json",
+      "timeout": 20
+    }
+  ],
+  "spider": "./jar/local.jar"
+}
