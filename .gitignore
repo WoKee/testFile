@@ -2,4 +2,13 @@
 .idea
 
 /apk1/dev/mapping/
+/apk1/release/mapp/leanbackPythonArm64_v8aRelease/
+/apk1/release/mapp/leanbackPythonArmeabi_v7aRelease/
+/apk1/release/mapp/mobilePythonArm64_v8aRelease/
+/apk1/release/mapp/mobilePythonArmeabi_v7aRelease/
+/apk1/release/mapp/
 /apk1/release/mapping/
+/apk1/release/mapp/leanbackPythonArm64_v8aReslRelease/
+/apk1/release/mapp/leanbackPythonArmeabi_v7aReslRelease/
+/apk1/release/mapp/mobilePythonArm64_v8aReslRelease/
+/apk1/release/mapp/mobilePythonArmeabi_v7aReslRelease/
