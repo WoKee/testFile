@@ -1,7 +1,7 @@
 {
   "code": 123450,
   "name": "0726",
-  "force": false,
+  "force": true,
   "app_icon" : "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLnRlbXA=",
   "desc": "[0725同步2.4.4源码，预发版]\n弹幕动态规则，与壳子分离\n 平板视频手势控制、画中画、直播去广告问题处理"
 }
