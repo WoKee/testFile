@@ -1,7 +1,7 @@
 {
-  "code": 123451,
-  "name": "0726.1",
+  "code": 123452,
+  "name": "0727",
   "force": true,
   "app_icon" : "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLnRlbXA=",
-  "desc": "[0725同步2.4.4源码，增加github加速头，预发版]\n弹幕动态规则，与壳子分离\n 平板视频手势控制、画中画、直播去广告问题处理"
+  "desc": "[0727预发版，修复优酷弹幕，需要壳子配合实现，所以这里更新壳子]\n弹幕动态规则，与壳子分离\n同步2.4.4源码，增加github加速头，\n 平板视频手势控制、画中画、直播去广告问题处理"
 }
