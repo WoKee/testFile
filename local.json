@@ -72,7 +72,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "jar": "./ok/okjpg.txt"
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sihan0502/TVBox/SH/SH/jar/okjpg.txt"
     }
   ]
 }
