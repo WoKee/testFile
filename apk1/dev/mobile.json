@@ -1,7 +1,7 @@
 {
-  "code": 123467,
-  "name": "0803",
+  "code": 123469,
+  "name": "0804",
   "force": false,
   "app_icon" : "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLnRlbXA=",
-  "desc": "[0802预发版，同步2.4.5.如更新慢可以在设置中切换Github加速。]\n弹幕动态规则，与壳子分离\n增加github加速头，\n 平板视频手势控制、画中画、直播去广告问题处理"
+  "desc": "[0804预发版，选集俩行适配.如更新慢可以在设置中切换Github加速。]\n同步2.4.5\n弹幕动态规则，与壳子分离\n增加github加速头，\n 平板视频手势控制、画中画、直播去广告问题处理"
 }
