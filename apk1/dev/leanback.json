@@ -1,7 +1,7 @@
 {
-  "code": 123472,
-  "name": "0806",
-  "force": false,
+  "code": 123473,
+  "name": "0807",
+  "force": true,
   "app_icon": "aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1dvS2VlL3Rlc3RGaWxlL21haW4vYXNzZXRzL2FwcF9pY29uLnRlbXA=",
-  "desc": "[0806预发版，平板单击版。修复直播闪退,首页双击返回退出 如更新慢可以在设置中切换Github加速。]\n同步2.4.5。选集适配手势，俩行选集处理\n弹幕动态规则，与壳子分离\n增加github加速头，\n 平板视频手势控制、画中画、直播去广告问题处理"
+  "desc": "[0807预发版,如更新慢可以在设置中切换Github加速。]\n更新EXO内核，且很早的版本小米或低版本的TV设备播放夸克等闪退的问题这次谷歌官方处理了，所以我去除了相关代码，注意观察是否正常\n同步2.4.5。平板单击版。修复直播闪退,首页双击返回退出、选集适配手势，俩行选集处理\n弹幕动态规则，与壳子分离\n增加github加速头，\n 平板视频手势控制、画中画、直播去广告问题处理"
 }
